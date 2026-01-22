@@ -9,7 +9,7 @@ The core business problem addressed in this project is inefficient credit manage
 
  ## Methodology & Tools
 
-The analysis applies the following data management and analytical techniques:
++ The analysis applies the following data management and analytical techniques:
 
 Data Cleaning & Standardisation of invoice-level transactional data
 
