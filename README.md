@@ -11,37 +11,37 @@ The core business problem addressed in this project is inefficient credit manage
 
 + The analysis applies the following data management and analytical techniques:
 
-Data Cleaning & Standardisation of invoice-level transactional data
++ Data Cleaning & Standardisation of invoice-level transactional data
 
-DSO Proxy & Ageing Analysis to estimate payment delays
++ DSO Proxy & Ageing Analysis to estimate payment delays
 
-RFM (Recency, Frequency, Monetary) Analysis for customer segmentation
++ RFM (Recency, Frequency, Monetary) Analysis for customer segmentation
 
-ABC Analysis to assess product-level revenue and credit concentration
++ ABC Analysis to assess product-level revenue and credit concentration
 
-Decision Tree–Based Credit Risk Classification to identify high-risk invoices
++ Decision Tree–Based Credit Risk Classification to identify high-risk invoices
 
-Exploratory Data Analysis & Visualisation using Python
++ Exploratory Data Analysis & Visualisation using Python
 
 Tools Used: Python (Pandas, NumPy, Scikit-learn, Matplotlib)
 
 ## Key Findings
 
-A significant portion of invoice value remains unpaid at any given time, creating liquidity pressure
++ A significant portion of invoice value remains unpaid at any given time, creating liquidity pressure
 
-Receivables are highly concentrated among a small group of builder-category customers
++ Receivables are highly concentrated among a small group of builder-category customers
 
-A single product category dominates both revenue and outstanding dues, indicating concentration risk
++ A single product category dominates both revenue and outstanding dues, indicating concentration risk
 
-Credit risk is primarily driven by unpaid proportion and invoice ageing rather than customer relationships
++ Credit risk is primarily driven by unpaid proportion and invoice ageing rather than customer relationships
 ## Recommendations
 
-Based on the analysis, the project proposes:
++ Based on the analysis, the project proposes:
 
-Segmented, behaviour-based credit policies
++ Segmented, behaviour-based credit policies
 
-Clear credit thresholds and early risk flags
++ Clear credit thresholds and early risk flags
 
-Product-specific credit controls for high-risk items
++ Product-specific credit controls for high-risk items
 
-Simple digital monitoring of receivables and ageing
++ Simple digital monitoring of receivables and ageing
